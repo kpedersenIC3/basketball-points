@@ -8,7 +8,7 @@ Copy this and paste it into a web browser.
 ```http://htmlpreview.github.io/?https://github.com/kpedersenIC3/basketball-points/blob/main/index.html```
 ### Contribution
 No PR
-###Author
+### Author
 Kasper Pedersen *@kpedersenIC3*
 
 
